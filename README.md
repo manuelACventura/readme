@@ -18,12 +18,12 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+  <a href="https://www.instagram.com/wonderk2/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/wonderk2/"/></a>
   
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/manuel-ventura-4921a01b2" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-ventura4921a01b2" /></a>
 
-  <a href="https://www.facebook.com/exudojazz/" alt="Facebook">
+  <a href="https://www.facebook.com/manuel.skiny/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/manuel.skiny/"/></a>
 </p>  
